@@ -138,11 +138,11 @@
 /* digits */
 .digits {
   margin: 0;
-  padding: 0;
+  padding: 100px 0 0 0;
 }
 
 .section-title {
-  margin: 100px auto 0 auto;
+  margin: 0 auto;
   width: 60%;
   text-align: center;
   line-height: 1.15;
@@ -193,6 +193,47 @@
   color: white;
   margin-right: 0;
   margin-top: 80px;
+}
+
+/* feynman */
+.feynman {
+  position: relative;
+  background: url(../images/feynman.png);
+  background-size: 867px 637px;
+  /* background-size: contain; */
+  background-repeat: no-repeat;
+  background-position: bottom left;
+  height: 790px;
+  margin: 0;
+  padding: 0;
+}
+
+.feynman__title {
+  width: 648px;
+  margin: 100px auto 0 auto;
+  text-align: center;
+  line-height: 1.15;
+  font-size: 120px;
+  font-weight: bold;
+}
+
+.feynman__subtitle {
+  margin: 70px auto 0 auto;
+  line-height: 51px;
+  text-align: center;
+  font-size: 36px;
+  font-weight: normal;
+}
+
+.feynman__link {
+  position: absolute;
+  top: 50%;
+  right: 48px;
+  text-decoration: none;
+  color: #2f80ed;
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
 }
 
 /* footer */
