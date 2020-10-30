@@ -345,7 +345,7 @@
 
 .footer__column-link {
   display: block;
-  margin-top: 10px;
+  /* margin-top: 10px; */
   text-decoration: none;
   color: white;
 }
@@ -357,6 +357,7 @@
 .footer__social-icon {
   width: 16px;
   height: 16px;
+  margin-right: 10px;
 }
 
 .footer__author {
