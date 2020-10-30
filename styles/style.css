@@ -36,12 +36,6 @@
   z-index: 10;
 }
 
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
-.header__square-pic {
-  height: 568px;
-  width: 568px;
-}
-
 .header__title {
   width: 730px;
   line-height: 96px;
@@ -71,7 +65,7 @@
   top: 64px;
   right: 0px;
   width: 568px;
-  height: 568px; 
+  height: 568px;
   background-color: #2f80ed;
 }
 
