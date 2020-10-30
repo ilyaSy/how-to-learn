@@ -42,6 +42,8 @@
   font-weight: bold;
   font-size: 102px;
   z-index: 11;
+  margin: 0;
+  padding: 0;
 }
 
 .header__subtitle {
@@ -53,6 +55,7 @@
   font-weight: normal;
   font-size: 18px;
   z-index: 10;
+  padding: 0;
 }
 
 .header__link {
@@ -137,6 +140,7 @@
 
 .section-title {
   margin: 0 auto;
+  padding: 0;
   width: 60%;
   text-align: center;
   line-height: 1.15;
@@ -146,6 +150,7 @@
 
 .section-subtitle {
   margin: 20px auto 0 auto;
+  padding: 0;
   width: 60%;
   text-align: center;
   line-height: 34px;
@@ -355,4 +360,5 @@
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
+  padding: 0;
 }
