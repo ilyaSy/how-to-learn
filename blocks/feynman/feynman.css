@@ -1,0 +1,14 @@
+.feynman {
+  position: relative;
+  background: url(../../images/feynman.png);
+  background-size: 867px 637px;
+  background-repeat: no-repeat;
+  background-position: bottom left;
+  background-color: #f2f2f2;
+  /* height: 790px; */
+  /* в брифе было явно указано "высота блока", поэтому и использовал height. Но учту - спасибо за рекомендации*/
+  min-height: 790px;
+  margin: 0;
+  padding-top: 100px;
+  /* box-sizing: border-box; */
+}
