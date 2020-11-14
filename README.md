@@ -1,5 +1,5 @@
 # How-to-learn
-[https://praktikum.yandex.ru](Яндекс. Практикум)
+[Яндекс. Практикум](https://praktikum.yandex.ru)
 
 ## Что это ?
 Проект 2 спринта 1 части курса "Веб-разработчик".
